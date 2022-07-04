@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# Clever Programmer Capstone, React App
+
+reactjs_css3_responsive_capstone_cryptocurrentcy
+
+![Screen Shot 2022-07-04 at 11 35 36 AM](https://user-images.githubusercontent.com/92414210/177204696-e3d60e23-104d-4ef9-b076-2d50d0683246.png)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
