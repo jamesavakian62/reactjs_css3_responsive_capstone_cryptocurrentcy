@@ -4,6 +4,8 @@ reactjs_css3_responsive_capstone_cryptocurrentcy
 
 https://jolly-liger-8f5f89.netlify.app/
 
+Written to Web3.0 specifications
+
 ![Screen Shot 2022-07-04 at 11 35 36 AM](https://user-images.githubusercontent.com/92414210/177204696-e3d60e23-104d-4ef9-b076-2d50d0683246.png)
 
 
