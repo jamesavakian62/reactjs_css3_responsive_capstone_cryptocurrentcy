@@ -8,6 +8,12 @@ Written to Web3.0 specifications
 
 ![Screen Shot 2022-07-04 at 11 35 36 AM](https://user-images.githubusercontent.com/92414210/177204696-e3d60e23-104d-4ef9-b076-2d50d0683246.png)
 
+![Screenshot 2023-03-21 at 9 12 20 PM](https://user-images.githubusercontent.com/92414210/226800525-78b83841-9a59-441e-b4b1-5d0a02ab503e.png)
+
+![Screenshot 2023-03-21 at 9 12 41 PM](https://user-images.githubusercontent.com/92414210/226800564-e565e7ad-68ab-42e0-8ce8-f34b1c86eb3a.png)
+
+![Screenshot 2023-03-21 at 9 13 01 PM](https://user-images.githubusercontent.com/92414210/226800585-6a63e8b2-b6bf-4e93-8ccf-3ab0bbbf5527.png)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
